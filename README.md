@@ -1,5 +1,7 @@
 # Project3_v2.ConfigServer
 
+As of now, we are not doing anything with this config service. This documentation is for reference if whoever is doing future iteration of this project want to use it.
+
 dependencies used in pom.xml
 -----------------------------
 - spring-boot-starter-parent
